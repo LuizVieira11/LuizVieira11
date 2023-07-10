@@ -28,7 +28,7 @@ Tenho 18 anos e atualmente estou trabalhando como estagiário no INSS, sou estud
 <a href = "mailto:luiz.vieira11@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 
----
+##
 
 <div align="center">
 <a href="https://github.com/LuizVieira11">
