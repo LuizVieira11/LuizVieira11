@@ -30,6 +30,8 @@ Tenho 18 anos e atualmente estou trabalhando como estagiário no INSS, sou estud
 
 ##
 
+[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizVieira11)](https://github.com/LuizVieira11/github-readme-stats)
+
 <div align="center">
 <a href="https://github.com/LuizVieira11">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizVieira11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
