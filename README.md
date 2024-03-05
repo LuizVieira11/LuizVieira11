@@ -1,6 +1,6 @@
 # Luiz Gustavo
 ## Hello, Devs!!  
-Tenho 18 anos e atualmente estou trabalhando como estagiário no INSS, sou estudante da Universidade de Sorocaba de Engenharia da Computação no 2° período. Sou um aventureiro no mundo da programação e estou tentando me aprimorar cada vez mais.
+Tenho 19 anos e atualmente estou trabalhando como estagiário no INSS, sou estudante da Universidade de Sorocaba de Engenharia da Computação no 3° período. Sou um aventureiro no mundo da programação e estou tentando me aprimorar cada vez mais.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
