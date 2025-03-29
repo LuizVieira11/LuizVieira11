@@ -6,7 +6,7 @@ Tenho 20 anos e atualmente estou trabalhando como analista de suporte técnico e
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-Gostaria de deixar aqui um adendo sobre projetos que estou envolvido, alguns já estão concluidos outros ainda estão em desenvolvimento, eu convido vocês a entrarem nos meus repositórios e explorarem meus projetos. Gostaria também de dar um destaque a mais para um projeto que está em desenvolvimento, que iniciei junto com um colega da faculdade, sinta-se a vontade para visitar o perfil do [Rafael](www.github.com/rafasandev), e já aproveite e dê uma olhada no nosso projeto, o [UniPapers](https://github.com/rafasandev/Uni_papers).  
+Gostaria de deixar aqui um adendo sobre projetos que estou envolvido, alguns já estão concluidos outros ainda estão em desenvolvimento, eu convido vocês a entrarem nos meus repositórios e explorarem meus projetos. Gostaria também de dar um destaque a mais para um projeto que está em desenvolvimento, que iniciei junto com um colega da faculdade, sinta-se a vontade para visitar o perfil do [Rafael](https://www.github.com/rafasandev), e já aproveite e dê uma olhada no nosso projeto, o [UniPapers](https://github.com/rafasandev/Uni_papers).  
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
