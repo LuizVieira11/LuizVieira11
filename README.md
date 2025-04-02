@@ -26,9 +26,14 @@ I manage several projects that demonstrate practical applications of backend tec
 
 ## Contact
 
-<div>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-santos-vieira-b78031260/" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/luizvieira11/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/luizsv11/" target="_blank">
-    <
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:luiz.vieira11@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</div>
