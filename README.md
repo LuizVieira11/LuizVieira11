@@ -2,7 +2,8 @@
 
 I currently work as a Technical Support Analyst for integrated ERP systems at TSoluções and am in the fifth period of a Computer Engineering program at the University of Sorocaba. My work is primarily focused on backend development using Java and the Spring framework.
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Projects and Collaborations
 
