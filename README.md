@@ -7,7 +7,7 @@ I currently work as a Technical Support Analyst for integrated ERP systems at TS
 
 ## Projects and Collaborations
 
-I manage several projects that demonstrate practical applications of backend technologies. A notable project is **UniPapers**. This project, developed in collaboration with [Rafael](https://www.github.com/rafasandev) (frontend) and myself (backend), features a dedicated API. You can review the API code in the [unipapers-requests repository](https://github.com/luizvieira11/unipapers-requests).
+I manage several projects that demonstrate practical applications of backend technologies. A notable project is [UniPapers](https://www.github.com/rafasandev/uni_papers). This project, developed in collaboration with [Rafael](https://www.github.com/rafasandev) (frontend) and myself (backend), features a dedicated API. You can review the API code in the [unipapers-requests repository](https://github.com/luizvieira11/unipapers-requests).
 
 ## 🛠️ Technologies and Tools
 
